@@ -14,7 +14,7 @@ Git
 
 ### Installation instruction
 ```
-git clone 
+git clone git@github.com:maing1/Code-challenge.git
 
 ```
 
