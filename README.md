@@ -4,7 +4,7 @@
 #### By *Maingi Faith Wangui*
 
 ## Description
-It's a .
+It's an assortment of challenges with their solutions.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
@@ -22,13 +22,11 @@ Git
 [Git](gh-pages link)
 
 ## Technologies used
-HTML
-CSS
 Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+github.com/maing1
 
 ### License
 The content of this site is licensed under the MIT license
